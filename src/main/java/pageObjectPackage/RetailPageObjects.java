@@ -15,7 +15,7 @@ public class RetailPageObjects extends Base {
 		PageFactory.initElements(driver, this);
 		}
 	
-	@FindBy (xpath = "//span[contains(text(),'My Account')]")
+	@FindBy (xpath = "//a[@title='My Account']")
 	private WebElement MyAccount;
 	
 	@FindBy (xpath = "//a[text() = 'Login']")

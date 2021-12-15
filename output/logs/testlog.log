@@ -768,3 +768,36 @@
 2021-12-14 19:51:27,801 - logger_File -INFO - User click on continue button Edit Button
 2021-12-14 19:51:27,802 - logger_File -INFO - User should see a message Success: Your account has been successfully updated
 2021-12-14 19:51:27,803 - logger_File -INFO - Scenario Edit your account Information PASSED
+2021-12-14 20:43:59,820 - logger_File -INFO - Scenario user verify all items are present in Desktops tab Started
+2021-12-14 20:44:02,703 - logger_File -INFO - Scenario user verify all items are present in Desktops tab FAILED
+2021-12-14 20:44:02,761 - logger_File -INFO - Scenario user add HP LP 3065  from Desktops tab to the cart Started
+2021-12-14 20:44:04,399 - logger_File -INFO - Scenario user add HP LP 3065  from Desktops tab to the cart FAILED
+2021-12-14 20:44:04,431 - logger_File -INFO - Scenario user add Canon EOS 5D from Desktops tab to the cart Started
+2021-12-14 20:44:05,851 - logger_File -INFO - Scenario user add Canon EOS 5D from Desktops tab to the cart FAILED
+2021-12-14 20:44:05,883 - logger_File -INFO - Scenario user add a review to Canon EOS 5D item in Desktops tab Started
+2021-12-14 20:44:06,971 - logger_File -INFO - Scenario user add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-12-14 20:44:06,995 - logger_File -INFO - Scenario User verify currency values change Started
+2021-12-14 20:44:09,259 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 20:44:09,326 - logger_File -INFO - User successfully clicked on Currency button
+2021-12-14 20:44:10,020 - logger_File -INFO - User successfully selected Euro as Currency
+2021-12-14 20:44:10,755 - logger_File -INFO - Valideted that currency is Euro now
+2021-12-14 20:44:10,756 - logger_File -INFO - Scenario User verify currency values change PASSED
+2021-12-14 20:44:10,769 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2021-12-14 20:44:11,690 - logger_File -INFO - Scenario User empty Shopping cart message displays FAILED
+2021-12-14 20:44:11,714 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-12-14 20:44:12,664 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2021-12-14 20:44:12,694 - logger_File -INFO - Scenario Product Comparison Started
+2021-12-14 20:44:14,997 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 20:44:28,967 - logger_File -INFO - Scenario Product Comparison FAILED
+2021-12-14 20:44:28,976 - logger_File -INFO - Scenario Adding an item to Wish list   compare.add('44'); Started
+2021-12-14 20:44:30,984 - logger_File -INFO - Scenario Adding an item to Wish list   compare.add('44'); FAILED
+2021-12-14 20:44:31,008 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-12-14 20:44:37,298 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 FAILED
+2021-12-14 20:44:37,310 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 20:44:39,427 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 20:44:39,968 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 20:44:44,123 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 20:44:44,137 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-14 20:44:46,170 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 20:44:46,651 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 20:44:46,677 - logger_File -INFO - Scenario Edit your account Information FAILED

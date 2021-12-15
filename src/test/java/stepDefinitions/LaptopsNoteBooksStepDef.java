@@ -86,8 +86,7 @@ public class LaptopsNoteBooksStepDef extends Base{
 
 	@Then("User should get a message ‘You must login or create an account to save Sony VAIO to your wish list!’")
 	public void user_should_get_a_message_you_must_login_or_create_an_account_to_save_sony_vaio_to_your_wish_list() {
-	    Laptops.LoginAlertClick();
-	}
+	    Assert.assertTrue(Laptops.LoginAlertClick());	}
 	
 	@When("User click on ‘MacBook Pro’ item")
 	public void user_click_on_mac_book_pro_item() {
