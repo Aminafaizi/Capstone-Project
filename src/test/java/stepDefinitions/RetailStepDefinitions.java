@@ -3,6 +3,7 @@ package stepDefinitions;
 
 
 
+
 import core.Base;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
@@ -53,7 +54,7 @@ public class RetailStepDefinitions extends Base{
 //		Assert.assertTrue(retail.myAccountTextisPresentretail());
 //		logger.info("User Should Be Login To Myaccount Dashboard");
 //	}
-//	
+	
 	@And("^User click on Register for an Affiliate Account link$")
 	public void User_click_on_Register_for_an_Affiliate_Account_link() {
 		retail.affiliateaccount();

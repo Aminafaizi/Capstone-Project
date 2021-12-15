@@ -220,7 +220,7 @@ public class RetailPageObjects extends Base {
 		paymentmethod.click();
 	}
 	public void paypalemail() {
-		paypalemail.sendKeys("AF@gmail.com");
+		paypalemail.sendKeys("naqib@yahoo.com");
 	}
 	public void aboutus() {
 		aboutus.click();

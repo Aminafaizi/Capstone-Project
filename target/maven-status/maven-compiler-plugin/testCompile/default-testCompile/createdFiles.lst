@@ -1,0 +1,8 @@
+stepDefinitions\LoginStepDef.class
+runner\Amina.class
+stepDefinitions\LaptopsNoteBooksStepDef.class
+stepDefinitions\DesktopsStepDefinition.class
+stepDefinitions\Initializer.class
+stepDefinitions\RetailStepDefinitions.class
+stepDefinitions\HomePageStepDefinitions.class
+runner\TestRunner.class

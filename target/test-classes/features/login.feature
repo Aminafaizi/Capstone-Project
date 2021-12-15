@@ -5,7 +5,7 @@ Scenario: Retail Website login test
 Given User is on Retail website 
 When User click on MyAccount
 And User click on Login option
-And User enter username 'AF@gmail.com' and Password 'test12'
+And User enter username 'test5@gmail.com' and Password 'test5'
 And User click on Login button
 Then User should be logged in to MyAccount dashboard
 
@@ -20,6 +20,6 @@ Then User should be logged in to Myaccount dashboard
 
 Examples:
 |username|password|
-|AF@gmail.com|test12|
+|test5@gmail.com|test5|
 |account2|123|
 |account3|1234|

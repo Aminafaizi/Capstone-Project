@@ -458,3 +458,313 @@
 2021-12-12 21:12:55,699 [main] INFO logger_File - User click on continue button Edit Button
 2021-12-12 21:12:55,700 [main] INFO logger_File - User should see a message Success: Your account has been successfully updated
 2021-12-12 21:12:55,700 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-12-12 22:53:06,571 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-12 22:53:09,284 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-12 22:53:09,900 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-12 22:53:28,607 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-12 22:53:28,624 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 22:53:30,710 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-12 22:53:31,271 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-12 22:53:50,408 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-12 22:53:50,437 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-12 22:53:52,484 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-12 22:53:53,049 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-12 22:54:01,837 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-12 22:54:22,590 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-12 22:54:25,036 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-12 22:54:25,611 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-12 22:54:51,479 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-12 22:54:51,496 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 22:54:53,489 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-12 22:54:54,045 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-12 22:54:55,873 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-12 22:54:55,897 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-12 22:54:57,914 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-12 22:56:24,458 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-12 22:56:27,007 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-12 22:56:27,602 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-12 22:56:57,695 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-12 22:56:57,726 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 22:56:59,721 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-12 22:57:00,313 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-12 22:57:04,489 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-12 23:18:45,009 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-12 23:18:49,787 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-12 23:18:50,946 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-12 23:19:21,051 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-12 23:19:21,092 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-12 23:19:23,573 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-12 23:19:24,493 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-12 23:19:54,549 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-12 23:19:54,567 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-12 23:19:57,009 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-12 23:19:57,979 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-12 23:20:28,012 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-14 18:23:22,609 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 18:23:26,989 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:23:27,717 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:23:57,805 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 18:23:57,881 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 18:24:01,959 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:24:02,880 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:24:04,733 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 18:24:04,798 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 18:24:11,047 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-14 18:29:21,952 [main] INFO logger_File - Scenario user verify all items are present in Desktops tab Started
+2021-12-14 18:29:24,803 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:29:24,858 [main] INFO logger_File - user click on desktop tab
+2021-12-14 18:29:26,036 [main] INFO logger_File - Scenario user verify all items are present in Desktops tab PASSED
+2021-12-14 18:29:26,064 [main] INFO logger_File - Scenario user add HP LP 3065  from Desktops tab to the cart Started
+2021-12-14 18:29:28,164 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:29:28,210 [main] INFO logger_File - user click on desktop tab
+2021-12-14 18:29:31,257 [main] INFO logger_File - Scenario user add HP LP 3065  from Desktops tab to the cart PASSED
+2021-12-14 18:29:31,268 [main] INFO logger_File - Scenario user add Canon EOS 5D from Desktops tab to the cart Started
+2021-12-14 18:29:33,322 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:29:33,375 [main] INFO logger_File - user click on desktop tab
+2021-12-14 18:29:36,177 [main] INFO logger_File - Scenario user add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-12-14 18:29:36,194 [main] INFO logger_File - Scenario user add a review to Canon EOS 5D item in Desktops tab Started
+2021-12-14 18:29:38,357 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:29:38,400 [main] INFO logger_File - user click on desktop tab
+2021-12-14 18:29:45,786 [main] INFO logger_File - Scenario user add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-12-14 18:30:25,797 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-12-14 18:30:28,328 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:30:28,382 [main] INFO logger_File - User successfully clicked on Currency button
+2021-12-14 18:30:29,100 [main] INFO logger_File - User successfully selected Euro as Currency
+2021-12-14 18:30:29,777 [main] INFO logger_File - Valideted that currency is Euro now
+2021-12-14 18:30:29,779 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2021-12-14 18:30:29,812 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-12-14 18:30:31,860 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:30:31,910 [main] INFO logger_File - User clicked on Shopping Cart button
+2021-12-14 18:30:32,619 [main] INFO logger_File - Validated that cart is empty
+2021-12-14 18:30:32,619 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2021-12-14 18:31:19,336 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-12-14 18:31:21,858 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:31:24,188 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2021-12-14 18:31:24,216 [main] INFO logger_File - Scenario Product Comparison Started
+2021-12-14 18:31:26,349 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:31:28,823 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-12-14 18:31:28,841 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); Started
+2021-12-14 18:31:30,902 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:31:31,580 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); PASSED
+2021-12-14 18:31:31,594 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-12-14 18:31:33,676 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:31:35,170 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2021-12-14 18:32:17,369 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-14 18:32:19,837 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:32:20,432 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:32:20,433 [main] INFO logger_File - Scenario Retail Website login test PASSED
+2021-12-14 18:32:20,490 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:32:22,496 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:32:22,522 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:32:24,641 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:32:24,661 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:32:26,780 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:34:16,807 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 18:34:19,460 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:34:20,083 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:34:50,174 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 18:34:50,201 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 18:34:52,327 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:34:52,910 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:34:53,752 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 18:34:53,788 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 18:34:55,115 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-14 18:37:09,867 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 18:37:12,529 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:37:13,373 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:37:13,628 [main] INFO logger_File - User click on Register for an Affiliate Account link
+2021-12-14 18:37:13,837 [main] INFO logger_File - User_fill_affiliate_form_with_below_information _company_website_taxID_paymentMethod
+2021-12-14 18:37:13,886 [main] INFO logger_File - User fill check detail
+2021-12-14 18:37:13,924 [main] INFO logger_File - User check on About us check box
+2021-12-14 18:37:14,376 [main] INFO logger_File - User click on Continue button
+2021-12-14 18:37:14,378 [main] INFO logger_File - User should see a success message
+2021-12-14 18:37:14,380 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-12-14 18:37:14,402 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 18:37:16,617 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:37:17,323 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:37:17,539 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-14 18:37:17,593 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-12-14 18:37:17,838 [main] INFO logger_File - User fill Bank information with below information
+2021-12-14 18:37:18,157 [main] INFO logger_File - User click on Continue button for Edit
+2021-12-14 18:37:18,158 [main] INFO logger_File - User should see a success message Continue
+2021-12-14 18:37:18,159 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-14 18:37:18,178 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 18:37:20,202 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:37:20,914 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:37:21,598 [main] INFO logger_File - User click on Edit your account information link
+2021-12-14 18:37:21,781 [main] INFO logger_File - User modify below information
+2021-12-14 18:37:22,116 [main] INFO logger_File - User click on continue button Edit Button
+2021-12-14 18:37:22,116 [main] INFO logger_File - User should see a message Success: Your account has been successfully updated
+2021-12-14 18:37:22,117 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-12-14 18:38:24,928 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-14 18:38:27,429 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:38:28,025 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:38:28,028 [main] INFO logger_File - Scenario Retail Website login test PASSED
+2021-12-14 18:38:28,081 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:38:30,134 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:38:30,155 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:38:32,398 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:38:32,415 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:38:34,504 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:42:49,158 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-14 18:42:51,761 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:42:52,359 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:42:52,361 [main] INFO logger_File - Scenario Retail Website login test PASSED
+2021-12-14 18:42:52,409 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:42:54,411 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:42:54,438 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:42:56,650 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:42:56,667 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:42:58,878 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:53:10,810 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-14 18:53:13,360 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:53:13,999 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:53:14,001 [main] INFO logger_File - Scenario Retail Website login test PASSED
+2021-12-14 18:53:14,066 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:53:16,137 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:53:16,160 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:53:18,190 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:53:18,206 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:53:20,346 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:59:52,728 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-14 18:59:55,384 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 18:59:56,001 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 18:59:56,003 [main] INFO logger_File - Scenario Retail Website login test PASSED
+2021-12-14 18:59:56,063 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 18:59:58,051 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 18:59:58,078 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 19:00:00,787 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 19:00:00,806 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 19:00:03,791 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 19:03:59,922 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-14 19:04:02,586 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:04:03,186 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:04:03,189 [main] INFO logger_File - Scenario Retail Website login test PASSED
+2021-12-14 19:04:03,246 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 19:04:05,289 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 19:04:05,312 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 19:04:07,480 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 19:04:07,498 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 19:04:09,708 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 19:06:10,759 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-14 19:06:13,261 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:06:13,956 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:06:13,959 [main] INFO logger_File - Scenario Retail Website login test PASSED
+2021-12-14 19:06:14,021 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 19:06:16,091 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 19:06:16,115 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 19:06:18,250 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 19:06:18,274 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 19:06:20,421 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 19:08:32,120 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:08:34,753 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:08:35,357 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:08:56,303 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:08:56,324 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 19:08:58,418 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:08:59,024 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:09:02,243 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 19:09:02,293 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 19:09:04,414 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:09:04,992 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:09:06,027 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-14 19:10:01,427 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:10:04,155 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:10:04,734 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:10:12,433 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:10:12,483 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 19:10:14,248 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 19:10:14,277 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 19:10:15,929 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-14 19:10:53,548 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:10:56,108 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:10:56,728 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:11:01,440 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:11:01,473 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 19:11:02,778 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 19:11:02,817 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 19:11:04,414 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-14 19:12:49,084 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:12:51,591 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:12:52,187 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:12:57,062 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:12:57,104 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 19:12:59,249 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:12:59,883 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:13:06,156 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 19:13:06,179 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 19:13:08,051 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-14 19:22:11,521 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:22:14,359 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:22:14,951 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:22:26,389 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:22:26,419 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 19:22:28,498 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:22:29,119 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:22:59,175 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 19:22:59,200 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 19:23:01,333 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:23:01,935 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:23:08,970 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-14 19:47:17,760 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:47:20,931 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:47:21,698 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:47:21,972 [main] INFO logger_File - User click on Register for an Affiliate Account link
+2021-12-14 19:47:22,183 [main] INFO logger_File - User_fill_affiliate_form_with_below_information _company_website_taxID_paymentMethod
+2021-12-14 19:47:22,237 [main] INFO logger_File - User fill check detail
+2021-12-14 19:47:22,278 [main] INFO logger_File - User check on About us check box
+2021-12-14 19:47:22,705 [main] INFO logger_File - User click on Continue button
+2021-12-14 19:47:22,708 [main] INFO logger_File - User should see a success message
+2021-12-14 19:47:22,716 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-12-14 19:47:22,763 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 19:47:24,951 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:47:25,716 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:47:25,951 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-14 19:47:26,003 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-12-14 19:47:26,267 [main] INFO logger_File - User fill Bank information with below information
+2021-12-14 19:47:26,624 [main] INFO logger_File - User click on Continue button for Edit
+2021-12-14 19:47:26,625 [main] INFO logger_File - User should see a success message Continue
+2021-12-14 19:47:26,626 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-14 19:47:26,653 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 19:47:28,993 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:47:29,803 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:47:30,517 [main] INFO logger_File - User click on Edit your account information link
+2021-12-14 19:47:30,722 [main] INFO logger_File - User modify below information
+2021-12-14 19:47:31,045 [main] INFO logger_File - User click on continue button Edit Button
+2021-12-14 19:47:31,047 [main] INFO logger_File - User should see a message Success: Your account has been successfully updated
+2021-12-14 19:47:31,047 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-12-14 19:47:57,082 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:47:59,881 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:48:00,514 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:48:30,559 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-14 19:48:30,583 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 19:48:32,490 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 19:48:32,531 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 19:48:34,202 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-14 19:51:15,492 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 19:51:18,154 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:51:18,963 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:51:19,187 [main] INFO logger_File - User click on Register for an Affiliate Account link
+2021-12-14 19:51:19,392 [main] INFO logger_File - User_fill_affiliate_form_with_below_information _company_website_taxID_paymentMethod
+2021-12-14 19:51:19,440 [main] INFO logger_File - User fill check detail
+2021-12-14 19:51:19,478 [main] INFO logger_File - User check on About us check box
+2021-12-14 19:51:19,905 [main] INFO logger_File - User click on Continue button
+2021-12-14 19:51:19,908 [main] INFO logger_File - User should see a success message
+2021-12-14 19:51:19,915 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-12-14 19:51:19,949 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 19:51:22,051 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:51:22,832 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:51:23,059 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-14 19:51:23,115 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-12-14 19:51:23,390 [main] INFO logger_File - User fill Bank information with below information
+2021-12-14 19:51:23,719 [main] INFO logger_File - User click on Continue button for Edit
+2021-12-14 19:51:23,719 [main] INFO logger_File - User should see a success message Continue
+2021-12-14 19:51:23,720 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-14 19:51:23,744 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-14 19:51:25,887 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-14 19:51:26,652 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-14 19:51:27,253 [main] INFO logger_File - User click on Edit your account information link
+2021-12-14 19:51:27,474 [main] INFO logger_File - User modify below information
+2021-12-14 19:51:27,801 [main] INFO logger_File - User click on continue button Edit Button
+2021-12-14 19:51:27,802 [main] INFO logger_File - User should see a message Success: Your account has been successfully updated
+2021-12-14 19:51:27,803 [main] INFO logger_File - Scenario Edit your account Information PASSED

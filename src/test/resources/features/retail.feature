@@ -1,4 +1,4 @@
-@smokeTest
+
 Feature: For this feature you have to have an existing account
 
 
@@ -6,7 +6,7 @@ Background:
 Given User is on Retail website 
 When User click on MyAccount
 And User click on Login option
-And User enter username 'AF@gmail.com' and Password 'test12'
+And User enter username 'test5@gmail.com' and Password 'test5'
 And User click on Login button
 Then User should be logged in to MyAccount dashboard
 
@@ -22,7 +22,7 @@ Examples:
 |company|website|taxID|paymentMethod|
 |Amazon|www.amazon.com|0002222|check|
 
-
+@smokeTest
 Scenario Outline: Edit your affiliate information from Cheque payment method to Bank Transfer
 When User click on Edit your affiliate informationlink 
 And user click on Bank Transfer radio button
@@ -34,7 +34,7 @@ Examples:
 |bankName|abaNumber|swiftCode|accountName|accountNumber|
 |BOFA|8888777|swiftCode|accountName|accountNumber|
 
-
+@smokeTest
 Scenario Outline: Edit your account Information 
 When User click on Edit your account information link 
 And User modify below information '<firstname>' '<lastName>' '<email>' '<telephone>'
@@ -44,6 +44,6 @@ Then User should see a message Success: Your account has been successfully updat
 
 Examples:
 |firstname|lastName|email|telephone|
-|Jawad|Ahmadi|AF@gmail.com|123|
+|Jawad|Ahmadi|test5@gmail.com|571245554|
 
 
