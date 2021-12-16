@@ -30,7 +30,7 @@ public class RetailPageObjects extends Base {
 	@FindBy (xpath ="//input[@value='Login']")
 	private WebElement loginclick;
 
-	@FindBy (xpath = "//h2[text()='My Account']")
+	@FindBy (xpath = "//div[@id='account-account']//*[text()='My Account']")
 	private WebElement myAccountText;
 	
 	@FindBy (xpath = "//a[contains(text(),'Register for an affiliate account')]")
@@ -60,7 +60,7 @@ public class RetailPageObjects extends Base {
 	@FindBy (xpath = "//i[@class='fa fa-check-circle']")
 	private WebElement success;
 	
-	@FindBy(xpath = "//a[contains(text(),'Edit your affiliate information')]")
+	@FindBy(xpath = "//a[text()='Edit your affiliate information']")
 	private WebElement Editaffiliate;
 	public void affiliate() {
 		Editaffiliate.click();
@@ -132,7 +132,7 @@ public class RetailPageObjects extends Base {
 		UtilityClasses.screenShotName();
 	}
 	
-	@FindBy (xpath = "//a[text()= 'Edit your account information']")
+	@FindBy(xpath = "//a[text()='Edit your account information']")
 	private WebElement EditRegister;
 	public void EditRegister() {
 		EditRegister.click();
