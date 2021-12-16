@@ -20,8 +20,8 @@ public class LoginStepDef extends Base {
 	// object of LoginPageObject class
 	LoginPageObject loginPageObject = new LoginPageObject();
 
-	@Given("^User is on Retail website$")
-	public void user_is_on_Retail_website() {
+	@Given("User is on Retail Website")
+	public void user_is_on_retail_website() {
 		String actualPageTitile = driver.getTitle();
 		String expectedPageTitle ="TEK SCHOOL";
 		// Assertion is to verify actual meets the expected 
@@ -33,7 +33,7 @@ public class LoginStepDef extends Base {
 	}
 
 	@When("User click on MyAccount")
-	public void User_click_on_Myaccount() {
+	public void user_click_on_myaccount() {
 		loginPageObject.clickOnMyAccount();
 //		logger.info("User clicked on Myaccount");
 		
@@ -45,20 +45,20 @@ public class LoginStepDef extends Base {
 //		logger.info("user clicked on Login Option");
 	}
 
-	@When("User enter username {string} and Password {string}")
-	public void user_enter_userName_and_password(String uName, String pass) {
+	@When("User Enter UserName {string} and password {string}")
+	public void user_enter_user_name_and_password(String uName, String pass) {
 		loginPageObject.enterEmailAndPassword(uName, pass);
 //		logger.info("user Enter " + uName + "and password " +pass);
 	}
 
 	@When("User click on Login button")
-	public void user_click_login_Button() {
-		loginPageObject.clickOnLoginButton();
-//		logger.info("user clicked on Login Button");
+	public void user_click_on_login_button() {
+		loginPageObject.clickOnLoginbutton();
+//		logger.info("user clicked on Login button");
 	}
 
-	@Then("^User should be logged in to MyAccount dashboard$")
-	public void user_should_be_logged_in_to_Myaccount_dashbaord() {
+	@Then("User should be logged in to Myaccount dashboard")
+	public void user_should_be_logged_in_to_myaccount_dashboard() {
 //		 if MyAccountText is present it will pass 
 //		 if myAccountText is not present or displayed it will fail
 	//	Assert.assertTrue(loginPageObject.myAccountTextisPresent());

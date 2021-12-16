@@ -39,7 +39,7 @@ public class LoginPageObject extends Base{
 		password.sendKeys(passwordValue);
 	}
 	
-	public void clickOnLoginButton() {
+	public void clickOnLoginbutton() {
 		loginbutton.click();
 	
 	}

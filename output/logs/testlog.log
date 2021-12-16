@@ -801,3 +801,603 @@
 2021-12-14 20:44:46,170 - logger_File -INFO - Actual Title is matching with expected title
 2021-12-14 20:44:46,651 - logger_File -INFO - user is logged in to Myaccount dashboard
 2021-12-14 20:44:46,677 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-14 21:33:32,086 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 21:33:36,652 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 21:33:38,002 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 21:34:08,079 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 21:34:08,111 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-14 21:34:10,892 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 21:34:11,428 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 21:34:11,441 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-14 21:34:57,159 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 21:35:00,124 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 21:35:01,205 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 21:35:06,411 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 21:35:06,444 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-14 21:35:09,387 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 21:35:10,191 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 21:35:10,895 - logger_File -INFO - User click on Edit your account information link
+2021-12-14 21:35:11,093 - logger_File -INFO - User modify below information
+2021-12-14 21:35:11,756 - logger_File -INFO - User click on continue button Edit Button
+2021-12-14 21:35:11,758 - logger_File -INFO - User should see a message Success: Your account has been successfully updated
+2021-12-14 21:35:11,759 - logger_File -INFO - Scenario Edit your account Information PASSED
+2021-12-14 22:28:57,075 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 22:29:00,864 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 22:29:01,570 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 22:29:27,961 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 22:29:27,977 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-14 22:29:30,299 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 22:29:30,930 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 22:29:37,953 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-14 22:30:12,409 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 22:30:15,247 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 22:30:15,930 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 22:30:46,037 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 22:30:46,063 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-14 22:30:48,271 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 22:30:48,884 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 22:31:18,911 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-14 22:32:56,446 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-14 22:32:59,241 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 22:33:00,030 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 22:33:00,033 - logger_File -INFO - Scenario Retail Website login test PASSED
+2021-12-14 22:33:00,099 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 22:33:02,305 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 22:33:02,329 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 22:33:04,670 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 22:33:04,689 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 22:33:07,001 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 22:34:09,635 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-14 22:34:12,474 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 22:34:13,275 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 22:34:13,277 - logger_File -INFO - Scenario Retail Website login test PASSED
+2021-12-14 22:34:13,352 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 22:34:15,569 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 22:34:15,605 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 22:34:17,909 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 22:34:17,932 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 22:34:20,258 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 22:56:10,602 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-14 22:56:13,227 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 22:56:14,060 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 22:56:14,064 - logger_File -INFO - Scenario Retail Website login test PASSED
+2021-12-14 22:56:14,113 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 22:56:16,096 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 22:56:16,126 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 22:56:18,340 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 22:56:18,364 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 22:56:20,782 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 23:18:09,603 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-14 23:18:12,533 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:18:13,469 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:18:13,472 - logger_File -INFO - Scenario Retail Website login test PASSED
+2021-12-14 23:18:13,530 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:18:16,172 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 23:18:16,203 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:18:18,395 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 23:18:18,423 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:18:20,823 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 23:19:40,285 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 23:19:43,010 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:19:44,100 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:19:47,648 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 23:19:47,692 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-14 23:19:53,508 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-14 23:21:17,682 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 23:21:20,561 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:21:21,210 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:21:35,507 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-14 23:21:35,551 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-14 23:21:37,606 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:21:38,213 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:21:38,253 - logger_File -INFO - User click on Edit your account information link
+2021-12-14 23:21:39,876 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-14 23:22:56,215 - logger_File -INFO - Scenario user verify all items are present in Desktops tab Started
+2021-12-14 23:22:58,963 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:22:59,016 - logger_File -INFO - user click on desktop tab
+2021-12-14 23:23:00,238 - logger_File -INFO - Scenario user verify all items are present in Desktops tab PASSED
+2021-12-14 23:23:00,264 - logger_File -INFO - Scenario user add HP LP 3065  from Desktops tab to the cart Started
+2021-12-14 23:23:02,320 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:23:02,381 - logger_File -INFO - user click on desktop tab
+2021-12-14 23:23:05,506 - logger_File -INFO - Scenario user add HP LP 3065  from Desktops tab to the cart PASSED
+2021-12-14 23:23:05,522 - logger_File -INFO - Scenario user add Canon EOS 5D from Desktops tab to the cart Started
+2021-12-14 23:23:07,575 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:23:07,635 - logger_File -INFO - user click on desktop tab
+2021-12-14 23:23:11,508 - logger_File -INFO - Scenario user add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-12-14 23:23:11,530 - logger_File -INFO - Scenario user add a review to Canon EOS 5D item in Desktops tab Started
+2021-12-14 23:23:13,568 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:23:13,625 - logger_File -INFO - user click on desktop tab
+2021-12-14 23:23:21,319 - logger_File -INFO - Scenario user add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-12-14 23:23:57,668 - logger_File -INFO - Scenario User verify currency values change Started
+2021-12-14 23:24:00,296 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:24:00,353 - logger_File -INFO - User successfully clicked on Currency button
+2021-12-14 23:24:00,985 - logger_File -INFO - User successfully selected Euro as Currency
+2021-12-14 23:24:01,748 - logger_File -INFO - Valideted that currency is Euro now
+2021-12-14 23:24:01,750 - logger_File -INFO - Scenario User verify currency values change PASSED
+2021-12-14 23:24:01,791 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2021-12-14 23:24:03,941 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:24:04,000 - logger_File -INFO - User clicked on Shopping Cart button
+2021-12-14 23:24:04,695 - logger_File -INFO - Validated that cart is empty
+2021-12-14 23:24:04,695 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2021-12-14 23:25:08,787 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-12-14 23:25:11,447 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:25:13,725 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2021-12-14 23:25:13,753 - logger_File -INFO - Scenario Product Comparison Started
+2021-12-14 23:25:16,354 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:25:18,837 - logger_File -INFO - Scenario Product Comparison PASSED
+2021-12-14 23:25:18,857 - logger_File -INFO - Scenario Adding an item to Wish list   compare.add('44'); Started
+2021-12-14 23:25:21,020 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:25:21,682 - logger_File -INFO - Scenario Adding an item to Wish list   compare.add('44'); PASSED
+2021-12-14 23:25:21,696 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-12-14 23:25:23,891 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:25:25,354 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2021-12-14 23:25:53,182 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-14 23:25:56,109 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:25:56,837 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:25:56,840 - logger_File -INFO - Scenario Retail Website login test PASSED
+2021-12-14 23:25:56,891 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:25:59,039 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 23:25:59,069 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:26:01,106 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 23:26:01,124 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:26:03,259 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 23:27:02,144 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-14 23:27:04,761 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:27:05,474 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:27:05,477 - logger_File -INFO - Scenario Retail Website login test PASSED
+2021-12-14 23:27:05,527 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:27:07,524 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 23:27:07,547 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:27:09,689 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 23:27:09,707 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:27:11,967 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-14 23:36:08,754 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-14 23:36:11,304 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-14 23:36:11,311 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-14 23:36:11,352 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:36:13,520 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:36:14,469 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:36:14,470 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:36:14,490 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:36:16,550 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:36:17,229 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:36:17,230 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:36:17,245 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:36:19,307 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:36:19,976 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:36:19,978 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:41:08,794 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-14 23:41:11,358 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-14 23:41:11,366 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-14 23:41:11,399 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:41:13,475 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:41:14,160 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:41:14,162 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:41:14,180 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:41:16,257 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:41:16,897 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:41:16,897 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:41:16,918 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:41:18,991 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:41:19,648 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:41:19,648 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:42:56,562 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-14 23:42:59,314 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-14 23:42:59,321 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-14 23:42:59,357 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:43:01,579 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:43:02,242 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:43:02,244 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:43:02,260 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:43:04,280 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:43:05,005 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:43:05,006 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:43:05,026 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:43:07,146 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:43:07,800 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:43:07,800 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:45:09,504 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-14 23:45:12,025 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-14 23:45:12,034 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-14 23:45:12,078 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:45:14,349 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:45:15,032 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:45:15,034 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:45:15,050 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:45:17,138 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:45:17,792 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:45:17,792 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:45:17,809 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-14 23:45:19,856 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-14 23:45:20,508 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-14 23:45:20,509 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-14 23:47:36,779 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 23:47:39,423 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-14 23:47:39,432 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2021-12-14 23:47:39,461 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-14 23:47:41,684 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-14 23:47:41,690 - logger_File -INFO - Scenario Edit your account Information UNDEFINED
+2021-12-14 23:50:34,454 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-14 23:50:37,114 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-14 23:50:37,123 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-12-14 23:50:37,152 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-14 23:50:39,287 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-14 23:50:39,290 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2021-12-14 23:50:39,332 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-14 23:50:41,716 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-14 23:50:41,717 - logger_File -INFO - Scenario Edit your account Information UNDEFINED
+2021-12-15 00:02:49,311 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 00:02:52,970 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 00:02:52,990 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2021-12-15 00:02:53,054 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 00:02:55,767 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 00:02:55,775 - logger_File -INFO - Scenario Edit your account Information UNDEFINED
+2021-12-15 18:17:57,148 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 18:18:00,194 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 18:18:00,660 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 18:18:01,209 - logger_File -INFO - User Click on Login lOption
+2021-12-15 18:18:01,248 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 18:18:12,461 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 18:18:12,500 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 18:18:14,748 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 18:18:15,114 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 18:18:15,428 - logger_File -INFO - User Click on Login lOption
+2021-12-15 18:18:15,459 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 18:18:15,493 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 18:18:20,604 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 18:22:28,931 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 18:22:31,869 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 18:22:32,285 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 18:22:32,660 - logger_File -INFO - User Click on Login lOption
+2021-12-15 18:22:32,703 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 18:22:55,289 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 18:22:55,342 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 18:22:57,605 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 18:22:58,013 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 18:22:58,348 - logger_File -INFO - User Click on Login lOption
+2021-12-15 18:22:58,381 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 18:22:58,417 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 18:23:03,475 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 18:31:30,732 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 18:31:32,548 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 18:31:32,579 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 18:31:34,476 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 18:31:53,488 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 18:31:56,682 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 18:31:57,216 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 18:31:59,301 - logger_File -INFO - User Click on Login lOption
+2021-12-15 18:31:59,343 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 18:32:05,199 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 18:32:05,237 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 18:32:07,194 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 18:36:45,334 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 18:36:48,059 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 18:36:48,440 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 18:36:48,745 - logger_File -INFO - User Click on Login lOption
+2021-12-15 18:36:48,787 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 18:36:49,005 - logger_File -INFO - User click on Edit your affiliate informationlink
+2021-12-15 18:36:49,048 - logger_File -INFO - user click on Bank Transfer radio button
+2021-12-15 18:36:49,281 - logger_File -INFO - User fill Bank information with below information
+2021-12-15 18:36:49,594 - logger_File -INFO - User click on Continue button for Edit
+2021-12-15 18:36:49,595 - logger_File -INFO - User should see a success message Continue
+2021-12-15 18:36:49,598 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-15 18:36:49,627 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 18:36:51,651 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 18:36:52,012 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 18:36:52,333 - logger_File -INFO - User Click on Login lOption
+2021-12-15 18:36:52,362 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 18:36:52,393 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 18:37:04,235 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 18:44:14,780 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 18:44:18,424 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 18:44:18,850 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 18:44:19,213 - logger_File -INFO - User Click on Login lOption
+2021-12-15 18:44:19,254 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 18:44:19,490 - logger_File -INFO - User click on Edit your affiliate informationlink
+2021-12-15 18:44:19,532 - logger_File -INFO - user click on Bank Transfer radio button
+2021-12-15 18:44:19,763 - logger_File -INFO - User fill Bank information with below information
+2021-12-15 18:44:20,092 - logger_File -INFO - User click on Continue button for Edit
+2021-12-15 18:44:20,093 - logger_File -INFO - User should see a success message Continue
+2021-12-15 18:44:20,095 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-15 18:44:20,113 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 18:44:22,084 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 18:44:22,650 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 18:44:23,111 - logger_File -INFO - User Click on Login lOption
+2021-12-15 18:44:23,146 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 18:44:23,178 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 18:44:39,277 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 18:55:19,436 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 18:55:21,889 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 18:55:22,307 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 18:55:22,651 - logger_File -INFO - User Click on Login lOption
+2021-12-15 18:55:22,691 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 18:55:22,922 - logger_File -INFO - User click on Edit your affiliate informationlink
+2021-12-15 18:55:22,976 - logger_File -INFO - user click on Bank Transfer radio button
+2021-12-15 18:55:23,205 - logger_File -INFO - User fill Bank information with below information
+2021-12-15 18:55:23,677 - logger_File -INFO - User click on Continue button for Edit
+2021-12-15 18:55:23,678 - logger_File -INFO - User should see a success message Continue
+2021-12-15 18:55:23,680 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-15 18:55:23,707 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 18:55:25,690 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 18:55:26,070 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 18:55:26,401 - logger_File -INFO - User Click on Login lOption
+2021-12-15 18:55:26,431 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 18:55:26,463 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 18:55:56,524 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 19:08:17,797 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 19:08:20,500 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:08:20,879 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:08:21,202 - logger_File -INFO - User Click on Login lOption
+2021-12-15 19:08:21,248 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 19:08:21,487 - logger_File -INFO - User click on Edit your affiliate informationlink
+2021-12-15 19:08:21,530 - logger_File -INFO - user click on Bank Transfer radio button
+2021-12-15 19:08:21,764 - logger_File -INFO - User fill Bank information with below information
+2021-12-15 19:08:22,107 - logger_File -INFO - User click on Continue button for Edit
+2021-12-15 19:08:22,108 - logger_File -INFO - User should see a success message Continue
+2021-12-15 19:08:22,110 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-15 19:08:22,129 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 19:08:24,155 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:08:24,525 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:08:24,883 - logger_File -INFO - User Click on Login lOption
+2021-12-15 19:08:24,913 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 19:08:24,952 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 19:08:40,403 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 19:18:30,481 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 19:18:33,243 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:18:33,649 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:18:33,979 - logger_File -INFO - User Click on Login lOption
+2021-12-15 19:18:34,022 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 19:18:34,234 - logger_File -INFO - User click on Edit your affiliate informationlink
+2021-12-15 19:18:34,279 - logger_File -INFO - user click on Bank Transfer radio button
+2021-12-15 19:18:34,512 - logger_File -INFO - User fill Bank information with below information
+2021-12-15 19:18:34,856 - logger_File -INFO - User click on Continue button for Edit
+2021-12-15 19:18:34,858 - logger_File -INFO - User should see a success message Continue
+2021-12-15 19:18:34,860 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-15 19:18:34,882 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 19:18:37,090 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:18:37,508 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:18:37,854 - logger_File -INFO - User Click on Login lOption
+2021-12-15 19:18:37,889 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 19:18:37,926 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 19:19:08,000 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 19:21:31,886 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:21:34,651 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:21:34,658 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-15 19:21:34,687 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:21:37,054 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:21:37,784 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:21:37,787 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:21:37,807 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:21:40,093 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:21:40,674 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:21:40,675 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:21:40,688 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:21:42,917 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:21:43,480 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:21:43,481 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:24:10,948 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:24:13,802 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:24:14,072 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-15 19:24:14,104 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:24:16,319 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:24:16,322 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:24:16,339 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:24:18,677 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:24:18,679 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:24:18,693 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:24:21,092 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:24:21,094 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:25:40,935 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:25:43,552 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:25:43,930 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:25:43,935 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-15 19:25:43,966 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:25:46,082 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:25:46,086 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:25:46,108 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:25:48,267 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:25:48,270 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:25:48,286 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:25:50,565 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:25:50,566 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:27:20,200 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:27:22,841 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:27:23,225 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:27:23,231 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-15 19:27:23,273 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:27:25,287 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:27:25,639 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:27:25,655 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:27:27,684 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:27:28,036 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:27:28,053 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:27:30,078 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:27:30,459 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:28:05,281 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:28:07,729 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:28:08,132 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:28:08,137 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-15 19:28:08,159 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:28:10,137 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:28:10,800 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:28:10,802 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:28:10,819 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:28:12,891 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:28:13,438 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:28:13,439 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:28:13,452 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:28:15,437 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:28:16,012 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:28:16,013 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:29:22,883 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:29:25,447 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:29:25,845 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:29:25,851 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-15 19:29:25,884 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:29:27,870 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:29:28,529 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:29:28,530 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:29:28,559 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:29:30,569 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:29:31,161 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:29:31,162 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:29:31,179 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:29:33,284 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:29:33,876 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:29:33,876 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:31:10,586 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:31:13,187 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:31:13,557 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:31:13,560 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-15 19:31:13,594 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:31:15,620 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:31:16,195 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:31:16,208 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:31:18,311 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:31:18,685 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:31:18,699 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:31:20,691 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:31:21,062 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:33:18,266 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:33:20,898 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:33:21,298 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:33:21,301 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-15 19:33:21,326 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:33:23,409 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:33:23,774 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:33:23,794 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:33:25,881 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:33:26,252 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:33:26,265 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:33:28,393 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:33:28,764 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:37:32,713 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:37:35,802 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:37:36,389 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:37:36,402 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-15 19:37:36,498 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:37:38,818 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:37:39,364 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:37:39,395 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:37:41,806 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:37:42,351 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:37:42,383 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:37:44,841 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:37:45,390 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:38:52,361 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:38:55,436 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:38:56,017 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:38:56,029 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-15 19:38:56,125 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:38:58,440 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:38:58,994 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:38:59,034 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:39:01,544 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:39:02,090 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:39:02,121 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:39:04,532 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:39:05,097 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:44:07,462 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:44:10,537 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:44:11,112 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:44:11,122 - logger_File -INFO - Scenario Retail Website login test UNDEFINED
+2021-12-15 19:44:11,191 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:44:13,478 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:44:13,993 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:44:14,028 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:44:16,329 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:44:16,848 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:44:16,879 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:44:19,216 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:44:19,735 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts UNDEFINED
+2021-12-15 19:50:04,532 - logger_File -INFO - Scenario Retail Website login test Started
+2021-12-15 19:50:07,703 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:50:08,278 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:50:08,766 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 19:50:08,770 - logger_File -INFO - Scenario Retail Website login test PASSED
+2021-12-15 19:50:08,835 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:50:11,240 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:50:12,137 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:50:12,142 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:50:12,181 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:50:14,703 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:50:15,555 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:50:15,557 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:50:15,601 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-15 19:50:18,229 - logger_File -INFO - Actual Title is matching with expected title
+2021-12-15 19:50:19,113 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:50:19,115 - logger_File -INFO - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-15 19:55:39,891 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-15 19:55:43,158 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:55:43,548 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-12-15 19:55:43,674 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 19:55:46,123 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:55:46,841 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2021-12-15 19:55:46,878 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 19:55:49,426 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:55:49,830 - logger_File -INFO - Scenario Edit your account Information UNDEFINED
+2021-12-15 19:56:45,586 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-15 19:56:48,591 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:56:48,993 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-12-15 19:56:49,048 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 19:56:51,457 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:56:51,799 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2021-12-15 19:56:51,833 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 19:56:54,309 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:56:54,655 - logger_File -INFO - Scenario Edit your account Information UNDEFINED
+2021-12-15 19:58:13,653 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-15 19:58:16,906 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:58:17,525 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:58:17,909 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:58:33,172 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-15 19:58:33,323 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 19:58:35,845 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:58:36,394 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:58:36,775 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:58:37,088 - logger_File -INFO - User click on Edit your affiliate informationlink
+2021-12-15 19:58:37,230 - logger_File -INFO - user click on Bank Transfer radio button
+2021-12-15 19:58:37,666 - logger_File -INFO - User fill Bank information with below information
+2021-12-15 19:58:38,015 - logger_File -INFO - User click on Continue button for Edit
+2021-12-15 19:58:38,017 - logger_File -INFO - User should see a success message Continue
+2021-12-15 19:58:38,019 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-15 19:58:38,045 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 19:58:40,429 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 19:58:40,949 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 19:58:41,338 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 19:58:41,394 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 19:58:45,154 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 20:03:01,778 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 20:03:04,824 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 20:03:05,404 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 20:03:05,787 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 20:03:06,074 - logger_File -INFO - User click on Edit your affiliate informationlink
+2021-12-15 20:03:06,153 - logger_File -INFO - user click on Bank Transfer radio button
+2021-12-15 20:03:06,603 - logger_File -INFO - User fill Bank information with below information
+2021-12-15 20:03:06,973 - logger_File -INFO - User click on Continue button for Edit
+2021-12-15 20:03:06,979 - logger_File -INFO - User should see a success message Continue
+2021-12-15 20:03:06,983 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-15 20:03:07,068 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 20:03:09,438 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 20:03:09,993 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 20:03:10,373 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 20:03:10,431 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 20:03:24,199 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 20:09:40,797 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 20:09:44,014 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 20:09:44,604 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 20:09:45,041 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 20:09:45,358 - logger_File -INFO - User click on Edit your affiliate informationlink
+2021-12-15 20:09:45,437 - logger_File -INFO - user click on Bank Transfer radio button
+2021-12-15 20:09:45,898 - logger_File -INFO - User fill Bank information with below information
+2021-12-15 20:09:46,941 - logger_File -INFO - User click on Continue button for Edit
+2021-12-15 20:09:46,945 - logger_File -INFO - User should see a success message Continue
+2021-12-15 20:09:46,949 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-15 20:09:47,012 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 20:09:49,622 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 20:09:50,157 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 20:09:50,528 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 20:09:51,279 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 20:09:51,627 - logger_File -INFO - User modify below information
+2021-12-15 20:09:52,022 - logger_File -INFO - User click on continue button Edit Button
+2021-12-15 20:09:52,023 - logger_File -INFO - User should see a message Success: Your account has been successfully updated
+2021-12-15 20:09:52,024 - logger_File -INFO - Scenario Edit your account Information PASSED

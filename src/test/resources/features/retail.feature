@@ -3,12 +3,13 @@ Feature: For this feature you have to have an existing account
 
 
 Background:
+
 Given User is on Retail website 
 When User click on MyAccount
 And User click on Login option
-And User enter username 'test5@gmail.com' and Password 'test5'
+And User enter username 'test9@gmail.com' and password 'test'
 And User click on Login button
-Then User should be logged in to MyAccount dashboard
+Then User should be logged in to Myaccount dashboard
 
 Scenario Outline: Register as an Affiliate user with Cheque Payment Method
 When User click on Register for an Affiliate Account link 
@@ -44,6 +45,6 @@ Then User should see a message Success: Your account has been successfully updat
 
 Examples:
 |firstname|lastName|email|telephone|
-|Jawad|Ahmadi|test5@gmail.com|571245554|
+|Jawad|Ahmadi|test9@gmail.com|571245554|
 
 

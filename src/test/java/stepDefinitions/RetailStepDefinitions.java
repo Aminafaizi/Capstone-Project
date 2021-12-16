@@ -4,8 +4,11 @@ package stepDefinitions;
 
 
 
+import org.junit.Assert;
+
 import core.Base;
 import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjectPackage.RetailPageObjects; 
@@ -15,45 +18,46 @@ public class RetailStepDefinitions extends Base{
 
 	RetailPageObjects retail = new RetailPageObjects();
 	
-//	@Given("^User is on Retail website$")
-//	public void user_is_on_retail_website() {
-//		String actualPageTitle = driver.getTitle();
-//		String expectedPageTitle = "TEK SCHOOL";
-//		//Assertion checks the expected vs the actual and will fail if it is not and stop test case
-//		Assert.assertEquals(expectedPageTitle, actualPageTitle);
-//		logger.info("Actual Title is matching with expected Title");
-//		}
-//	
-//	@When ("^User click  on MyAccount$")
-//	public void User_Click_On_Myaccount() {
-//		retail.Myaccountretail();
-//		logger.info("User Click On Myaccount");
-//	}
-//	@And("^User click on Login$")
-//	public void User_Click_on_Login() {
-//		retail.clickloginbuttonretail();
-//		logger.info("User Click on Login Option");
-//		
-//	}
-//	@When("User enter username {string} and password {string}")
-//	public void User_Ente_UserName_and_Password (String emailv, String passwordm) {
-//		retail.emailretail(emailv);
-//		retail.passwordretail(passwordm);
-//		logger.info("User"+emailv + "and password "+passwordm);
-//		
-//	}
-//	
-//	@And("^User click on Login button1$")
-//	public void User_Click_On_Login_lOption() {
-//		retail.loginclickretail();
-//		logger.info("User Click on Login lOption");
-//		
-//	}
-//	@And("^User should be logged in to MyAccount dashboard")
-//	public void User_Should_Be_login_to_Myaccount_Dashboard() {
-//		Assert.assertTrue(retail.myAccountTextisPresentretail());
-//		logger.info("User Should Be Login To Myaccount Dashboard");
-//	}
+	@Given("^User is on Retail website$")
+	public void user_is_on_retail_website() {
+		String actualPageTitle = driver.getTitle();
+		String expectedPageTitle = "TEK SCHOOL";
+		//Assertion checks the expected vs the actual and will fail if it is not and stop test case
+		Assert.assertEquals(expectedPageTitle, actualPageTitle);
+		logger.info("Actual Title is matching with expected Title");
+		}
+	
+	@When ("^User click  on MyAccount$")
+	public void User_Click_On_Myaccount() {
+		retail.Myaccountretail();
+		logger.info("User Click On Myaccount");
+	}
+	@And("^User click on Login$")
+	public void User_Click_on_Login() {
+		retail.clickloginbuttonretail();
+		logger.info("User Click on Login Option");
+		
+	}
+	@When("User enter username {string} and password {string}")
+	public void User_Ente_UserName_and_Password (String emailv, String passwordm) {
+		retail.emailretail(emailv);
+		retail.passwordretail(passwordm);
+		logger.info("User"+emailv + "and password "+passwordm);
+		
+	}
+	
+	
+	@And("^User click on Login button1$")
+	public void User_Click_On_Login_lOption() {
+		retail.loginclickretail();
+		logger.info("User Click on Login lOption");
+		
+	}
+	@And("^User should be logged in to MyAccount dashboard")
+	public void User_Should_Be_login_to_Myaccount_Dashboard() {
+		Assert.assertTrue(retail.myAccountTextisPresentretail());
+		logger.info("User Should Be Login To Myaccount Dashboard");
+	}
 	
 	@And("^User click on Register for an Affiliate Account link$")
 	public void User_click_on_Register_for_an_Affiliate_Account_link() {
