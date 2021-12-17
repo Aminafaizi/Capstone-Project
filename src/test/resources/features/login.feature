@@ -1,4 +1,4 @@
-@test1
+@smokeTest
 Feature: User log in to Retail Website
 
 Scenario: Retail Website login test
