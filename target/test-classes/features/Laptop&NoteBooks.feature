@@ -1,4 +1,4 @@
-
+@smokeTest
 Feature: Laptop & NoteBooks
 
 Background:

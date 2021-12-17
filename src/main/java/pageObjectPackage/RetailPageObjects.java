@@ -141,24 +141,28 @@ public class RetailPageObjects extends Base {
 	@FindBy (id = "input-firstname")
 	private WebElement FirstNameEdit;
 	public void FirstNameEdit(String fName) {
+		FirstNameEdit.clear();
 		FirstNameEdit.sendKeys(fName);
 	}
 	
 	@FindBy (id = "input-lastname")
 	private WebElement LastNameEdit;
 	public void LastNameEdit(String lName) {
+		LastNameEdit.clear();
 		LastNameEdit.sendKeys(lName);
 	}
 	
 	@FindBy (xpath = "//*[@id=\"input-email\"]")
 	private WebElement emailEdit;
 	public void emailEdit(String eEmail) {
+		emailEdit.clear();
 		emailEdit.sendKeys("eEmail");
 
 	}
 	@FindBy (xpath ="//*[@id=\"input-telephone\"]")
 	private WebElement phoneEdit;
 	public void phoneEdit(String pEdit) {
+		phoneEdit.clear();
 		phoneEdit.sendKeys(pEdit);
 	}
 	
