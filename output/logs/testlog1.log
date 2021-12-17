@@ -1401,3 +1401,82 @@
 2021-12-15 20:09:52,022 [main] INFO logger_File - User click on continue button Edit Button
 2021-12-15 20:09:52,023 [main] INFO logger_File - User should see a message Success: Your account has been successfully updated
 2021-12-15 20:09:52,024 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-12-15 20:53:00,065 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 20:53:03,669 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 20:53:04,328 [main] INFO logger_File - Usertest9@gmail.comand password test
+2021-12-15 20:53:04,768 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-15 20:53:14,559 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 20:53:14,622 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-15 20:53:21,072 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-15 21:13:55,025 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 21:13:58,279 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:13:58,862 [main] INFO logger_File - Usertest9@gmail.comand password test
+2021-12-15 21:14:19,616 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 21:14:19,695 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-15 21:14:22,092 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:14:22,611 [main] INFO logger_File - Usertest9@gmail.comand password test
+2021-12-15 21:14:26,132 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-15 21:15:41,215 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 21:15:44,470 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:15:45,335 [main] INFO logger_File - Usertest9@gmail.comand password test
+2021-12-15 21:16:15,970 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 21:16:16,059 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-15 21:16:18,830 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:16:19,504 [main] INFO logger_File - Usertest9@gmail.comand password test
+2021-12-15 21:16:20,915 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-15 21:18:45,609 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 21:18:48,868 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:18:49,512 [main] INFO logger_File - Usertest10@gmail.comand password test
+2021-12-15 21:18:50,070 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-15 21:19:02,873 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 21:19:02,938 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-15 21:19:05,372 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:19:06,002 [main] INFO logger_File - Usertest10@gmail.comand password test
+2021-12-15 21:19:06,484 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-15 21:19:07,180 [main] INFO logger_File - User click on Edit your account information link
+2021-12-15 21:19:07,474 [main] INFO logger_File - User modify below information
+2021-12-15 21:19:07,879 [main] INFO logger_File - User click on continue button Edit Button
+2021-12-15 21:19:07,884 [main] INFO logger_File - User should see a message Success: Your account has been successfully updated
+2021-12-15 21:19:07,884 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-12-15 21:22:15,858 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-15 21:22:18,618 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:22:19,135 [main] INFO logger_File - Usertest10@gmail.comand password test
+2021-12-15 21:22:49,489 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-15 21:22:49,581 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 21:22:51,888 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:22:52,414 [main] INFO logger_File - Usertest10@gmail.comand password test
+2021-12-15 21:23:22,747 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 21:23:22,784 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-15 21:23:25,067 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:23:25,595 [main] INFO logger_File - Usertest10@gmail.comand password test
+2021-12-15 21:23:29,006 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-12-15 21:32:23,467 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-15 21:32:26,483 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:32:27,016 [main] INFO logger_File - Usertest11@gmail.comand password test
+2021-12-15 21:32:27,538 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-15 21:32:27,839 [main] INFO logger_File - User click on Register for an Affiliate Account link
+2021-12-15 21:32:28,194 [main] INFO logger_File - User_fill_affiliate_form_with_below_information _company_website_taxID_paymentMethod
+2021-12-15 21:32:28,291 [main] INFO logger_File - User fill check detail
+2021-12-15 21:32:28,361 [main] INFO logger_File - User check on About us check box
+2021-12-15 21:32:28,912 [main] INFO logger_File - User click on Continue button
+2021-12-15 21:32:28,915 [main] INFO logger_File - User should see a success message
+2021-12-15 21:32:28,919 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-12-15 21:32:28,967 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 21:32:31,925 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:32:32,535 [main] INFO logger_File - Usertest11@gmail.comand password test
+2021-12-15 21:32:33,017 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-15 21:32:33,290 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-15 21:32:33,359 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-12-15 21:32:33,798 [main] INFO logger_File - User fill Bank information with below information
+2021-12-15 21:32:34,212 [main] INFO logger_File - User click on Continue button for Edit
+2021-12-15 21:32:34,213 [main] INFO logger_File - User should see a success message Continue
+2021-12-15 21:32:34,213 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-15 21:32:34,287 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-15 21:32:36,552 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-15 21:32:37,115 [main] INFO logger_File - Usertest11@gmail.comand password test
+2021-12-15 21:32:37,620 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-15 21:32:38,244 [main] INFO logger_File - User click on Edit your account information link
+2021-12-15 21:32:38,564 [main] INFO logger_File - User modify below information
+2021-12-15 21:32:39,128 [main] INFO logger_File - User click on continue button Edit Button
+2021-12-15 21:32:39,129 [main] INFO logger_File - User should see a message Success: Your account has been successfully updated
+2021-12-15 21:32:39,130 [main] INFO logger_File - Scenario Edit your account Information PASSED

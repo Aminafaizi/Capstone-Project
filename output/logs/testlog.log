@@ -1401,3 +1401,82 @@
 2021-12-15 20:09:52,022 - logger_File -INFO - User click on continue button Edit Button
 2021-12-15 20:09:52,023 - logger_File -INFO - User should see a message Success: Your account has been successfully updated
 2021-12-15 20:09:52,024 - logger_File -INFO - Scenario Edit your account Information PASSED
+2021-12-15 20:53:00,065 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 20:53:03,669 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 20:53:04,328 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 20:53:04,768 - logger_File -INFO - user is logged in to Myaccount dashboard
+2021-12-15 20:53:14,559 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 20:53:14,622 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 20:53:21,072 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 21:13:55,025 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 21:13:58,279 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:13:58,862 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 21:14:19,616 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 21:14:19,695 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 21:14:22,092 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:14:22,611 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 21:14:26,132 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 21:15:41,215 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 21:15:44,470 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:15:45,335 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 21:16:15,970 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 21:16:16,059 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 21:16:18,830 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:16:19,504 - logger_File -INFO - Usertest9@gmail.comand password test
+2021-12-15 21:16:20,915 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 21:18:45,609 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 21:18:48,868 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:18:49,512 - logger_File -INFO - Usertest10@gmail.comand password test
+2021-12-15 21:18:50,070 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 21:19:02,873 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 21:19:02,938 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 21:19:05,372 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:19:06,002 - logger_File -INFO - Usertest10@gmail.comand password test
+2021-12-15 21:19:06,484 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 21:19:07,180 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 21:19:07,474 - logger_File -INFO - User modify below information
+2021-12-15 21:19:07,879 - logger_File -INFO - User click on continue button Edit Button
+2021-12-15 21:19:07,884 - logger_File -INFO - User should see a message Success: Your account has been successfully updated
+2021-12-15 21:19:07,884 - logger_File -INFO - Scenario Edit your account Information PASSED
+2021-12-15 21:22:15,858 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-15 21:22:18,618 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:22:19,135 - logger_File -INFO - Usertest10@gmail.comand password test
+2021-12-15 21:22:49,489 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-12-15 21:22:49,581 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 21:22:51,888 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:22:52,414 - logger_File -INFO - Usertest10@gmail.comand password test
+2021-12-15 21:23:22,747 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-15 21:23:22,784 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 21:23:25,067 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:23:25,595 - logger_File -INFO - Usertest10@gmail.comand password test
+2021-12-15 21:23:29,006 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-12-15 21:32:23,467 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-12-15 21:32:26,483 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:32:27,016 - logger_File -INFO - Usertest11@gmail.comand password test
+2021-12-15 21:32:27,538 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 21:32:27,839 - logger_File -INFO - User click on Register for an Affiliate Account link
+2021-12-15 21:32:28,194 - logger_File -INFO - User_fill_affiliate_form_with_below_information _company_website_taxID_paymentMethod
+2021-12-15 21:32:28,291 - logger_File -INFO - User fill check detail
+2021-12-15 21:32:28,361 - logger_File -INFO - User check on About us check box
+2021-12-15 21:32:28,912 - logger_File -INFO - User click on Continue button
+2021-12-15 21:32:28,915 - logger_File -INFO - User should see a success message
+2021-12-15 21:32:28,919 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-12-15 21:32:28,967 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-15 21:32:31,925 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:32:32,535 - logger_File -INFO - Usertest11@gmail.comand password test
+2021-12-15 21:32:33,017 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 21:32:33,290 - logger_File -INFO - User click on Edit your affiliate informationlink
+2021-12-15 21:32:33,359 - logger_File -INFO - user click on Bank Transfer radio button
+2021-12-15 21:32:33,798 - logger_File -INFO - User fill Bank information with below information
+2021-12-15 21:32:34,212 - logger_File -INFO - User click on Continue button for Edit
+2021-12-15 21:32:34,213 - logger_File -INFO - User should see a success message Continue
+2021-12-15 21:32:34,213 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-15 21:32:34,287 - logger_File -INFO - Scenario Edit your account Information Started
+2021-12-15 21:32:36,552 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-15 21:32:37,115 - logger_File -INFO - Usertest11@gmail.comand password test
+2021-12-15 21:32:37,620 - logger_File -INFO - User Should Be Login To Myaccount Dashboard
+2021-12-15 21:32:38,244 - logger_File -INFO - User click on Edit your account information link
+2021-12-15 21:32:38,564 - logger_File -INFO - User modify below information
+2021-12-15 21:32:39,128 - logger_File -INFO - User click on continue button Edit Button
+2021-12-15 21:32:39,129 - logger_File -INFO - User should see a message Success: Your account has been successfully updated
+2021-12-15 21:32:39,130 - logger_File -INFO - Scenario Edit your account Information PASSED

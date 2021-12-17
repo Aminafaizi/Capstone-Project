@@ -7,9 +7,9 @@ Background:
 Given User is on Retail website 
 When User click on MyAccount
 And User click on Login option
-And User enter username 'test9@gmail.com' and password 'test'
+And User enter username 'test11@gmail.com' and password 'test'
 And User click on Login button
-Then User should be logged in to Myaccount dashboard
+Then User should be logged in to MyAccount dashboard
 
 Scenario Outline: Register as an Affiliate user with Cheque Payment Method
 When User click on Register for an Affiliate Account link 
@@ -23,7 +23,7 @@ Examples:
 |company|website|taxID|paymentMethod|
 |Amazon|www.amazon.com|0002222|check|
 
-@smokeTest
+
 Scenario Outline: Edit your affiliate information from Cheque payment method to Bank Transfer
 When User click on Edit your affiliate informationlink 
 And user click on Bank Transfer radio button
@@ -35,7 +35,7 @@ Examples:
 |bankName|abaNumber|swiftCode|accountName|accountNumber|
 |BOFA|8888777|swiftCode|accountName|accountNumber|
 
-@smokeTest
+
 Scenario Outline: Edit your account Information 
 When User click on Edit your account information link 
 And User modify below information '<firstname>' '<lastName>' '<email>' '<telephone>'
@@ -45,6 +45,6 @@ Then User should see a message Success: Your account has been successfully updat
 
 Examples:
 |firstname|lastName|email|telephone|
-|Jawad|Ahmadi|test9@gmail.com|571245554|
+|Jawad|Ahmadi|test11@gmail.com|571245554|
 
 
