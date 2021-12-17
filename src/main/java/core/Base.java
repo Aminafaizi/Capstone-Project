@@ -72,8 +72,8 @@ public class Base {
 	 * This method will close all opened browsers once it is called
 	 */
 	public static void CloseBrowser() {
-		// driver.close();
-		// driver.quit();
+		 driver.close();
+		 driver.quit();
 	}
 	/**
 	 * This method will run cross browser, means we can change value of browser in
