@@ -1611,3 +1611,94 @@
 2021-12-17 17:23:51,361 [main] INFO logger_File - Actual Title is matching with expected title
 2021-12-17 17:23:52,232 [main] INFO logger_File - user is logged in to Myaccount dashboard
 2021-12-17 17:23:52,235 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-17 17:53:38,532 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-12-17 17:53:40,305 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-12-17 17:53:42,560 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-17 17:53:44,610 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-17 17:53:48,198 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2021-12-17 17:53:48,242 [main] INFO logger_File - Scenario Product Comparison Started
+2021-12-17 17:53:50,975 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2021-12-17 17:53:51,010 [main] INFO logger_File - Scenario Product Comparison Started
+2021-12-17 17:53:51,786 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-17 17:53:53,459 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-17 17:53:55,023 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-12-17 17:53:55,044 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); Started
+2021-12-17 17:53:57,045 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-12-17 17:53:57,078 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); Started
+2021-12-17 17:53:57,750 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-17 17:53:58,930 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); PASSED
+2021-12-17 17:53:58,959 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-12-17 17:53:59,693 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-17 17:54:00,922 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); PASSED
+2021-12-17 17:54:00,950 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-12-17 17:54:01,663 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-17 17:54:03,486 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-17 17:54:05,913 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2021-12-17 17:54:09,030 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2021-12-19 16:11:22,678 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-12-19 16:11:27,016 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:11:34,846 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2021-12-19 16:11:34,867 [main] INFO logger_File - Scenario Product Comparison Started
+2021-12-19 16:11:37,268 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:11:41,386 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-12-19 16:11:41,399 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); Started
+2021-12-19 16:11:43,747 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:11:44,876 [main] INFO logger_File - Scenario Adding an item to Wish list   compare.add('44'); PASSED
+2021-12-19 16:11:44,893 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-12-19 16:11:47,549 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:11:53,771 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2021-12-19 16:13:09,138 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-12-19 16:13:12,253 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:13:12,323 [main] INFO logger_File - User successfully clicked on Currency button
+2021-12-19 16:13:12,980 [main] INFO logger_File - User successfully selected Euro as Currency
+2021-12-19 16:13:13,664 [main] INFO logger_File - Valideted that currency is Euro now
+2021-12-19 16:13:14,016 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2021-12-19 16:13:14,041 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-12-19 16:13:16,532 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:13:16,584 [main] INFO logger_File - User clicked on Shopping Cart button
+2021-12-19 16:13:17,285 [main] INFO logger_File - Validated that cart is empty
+2021-12-19 16:13:17,639 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2021-12-19 16:16:21,751 [main] INFO logger_File - Scenario user verify all items are present in Desktops tab Started
+2021-12-19 16:16:24,748 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:16:24,803 [main] INFO logger_File - user click on desktop tab
+2021-12-19 16:16:26,565 [main] INFO logger_File - Scenario user verify all items are present in Desktops tab PASSED
+2021-12-19 16:16:26,597 [main] INFO logger_File - Scenario user add HP LP 3065  from Desktops tab to the cart Started
+2021-12-19 16:16:29,106 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:16:29,160 [main] INFO logger_File - user click on desktop tab
+2021-12-19 16:16:37,558 [main] INFO logger_File - Scenario user add HP LP 3065  from Desktops tab to the cart PASSED
+2021-12-19 16:16:37,573 [main] INFO logger_File - Scenario user add Canon EOS 5D from Desktops tab to the cart Started
+2021-12-19 16:16:39,967 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:16:40,014 [main] INFO logger_File - user click on desktop tab
+2021-12-19 16:16:47,868 [main] INFO logger_File - Scenario user add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-12-19 16:16:47,884 [main] INFO logger_File - Scenario user add a review to Canon EOS 5D item in Desktops tab Started
+2021-12-19 16:16:50,173 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:16:50,220 [main] INFO logger_File - user click on desktop tab
+2021-12-19 16:17:02,449 [main] INFO logger_File - Scenario user add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-12-19 16:18:10,340 [main] INFO logger_File - Scenario Retail Website login test Started
+2021-12-19 16:18:13,301 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:18:13,679 [main] INFO logger_File - Useraminaf@gmail.comand password 12345
+2021-12-19 16:18:14,071 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-19 16:18:14,396 [main] INFO logger_File - Scenario Retail Website login test PASSED
+2021-12-19 16:18:14,432 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts Started
+2021-12-19 16:18:16,987 [main] INFO logger_File - Actual Title is matching with expected title
+2021-12-19 16:18:17,736 [main] INFO logger_File - user is logged in to Myaccount dashboard
+2021-12-19 16:18:18,055 [main] INFO logger_File - Scenario Retail Website Login test with Multiple accounts PASSED
+2021-12-19 16:18:58,994 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-12-19 16:19:01,918 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:19:02,352 [main] INFO logger_File - Useraminaf@gmail.comand password 12345
+2021-12-19 16:19:02,762 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-19 16:19:03,051 [main] INFO logger_File - User click on Edit your affiliate informationlink
+2021-12-19 16:19:03,097 [main] INFO logger_File - user click on Bank Transfer radio button
+2021-12-19 16:19:03,362 [main] INFO logger_File - User fill Bank information with below information
+2021-12-19 16:19:03,721 [main] INFO logger_File - User click on Continue button for Edit
+2021-12-19 16:19:03,722 [main] INFO logger_File - User should see a success message Continue
+2021-12-19 16:19:04,055 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-12-19 16:19:04,088 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-12-19 16:19:06,515 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 16:19:06,909 [main] INFO logger_File - Useraminaf@gmail.comand password 12345
+2021-12-19 16:19:07,301 [main] INFO logger_File - User Should Be Login To Myaccount Dashboard
+2021-12-19 16:19:08,005 [main] INFO logger_File - User click on Edit your account information link
+2021-12-19 16:19:08,291 [main] INFO logger_File - User modify below information
+2021-12-19 16:19:08,334 [main] INFO logger_File - User click on continue button Edit Button
+2021-12-19 16:19:08,335 [main] INFO logger_File - User should see a message Success: Your account has been successfully updated
+2021-12-19 16:19:08,682 [main] INFO logger_File - Scenario Edit your account Information PASSED
